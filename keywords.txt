@@ -1,0 +1,14 @@
+#Названия классов и переменных
+
+AbstractCommands KEYWORD1
+AbstractConsole KEYWORD1
+ArduinoAbstractCommands KEYWORD1
+ArduinoAbstractConsole KEYWORD1
+
+#Названия методов и функций
+
+setDigitalSignal KEYWORD2
+readDigitalSignal KEYWORD2
+setPWMSignal KEYWORD2
+readAnalogSignal KEYWORD2
+print KEYWORD2
