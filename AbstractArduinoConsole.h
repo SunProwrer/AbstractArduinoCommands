@@ -9,7 +9,7 @@ public:
         Serial.print(msg);
     }
 
-    virtual void print(int msg) {
+    void print(int msg) {
         Serial.print(msg);
     }
 
@@ -17,7 +17,7 @@ public:
         Serial.println(msg);
     }
     
-    virtual void println(int msg) {
+    void println(int msg) {
         Serial.println(msg);
     }
 };
